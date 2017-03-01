@@ -1,1 +1,1 @@
-# healthcare_blog
+# blog
